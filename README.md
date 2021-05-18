@@ -1,2 +1,2 @@
 # calculadora-Web-B-sica
-Um calculadora simples usando Javascript, HTML e css.
+Um calculadora simples usando Javascript, HTML e CSS.
